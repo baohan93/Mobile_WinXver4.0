@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "BHMobileMobile",
-    "slug": "BHMobileMobile",
+    "name": "Mobile_Linhkien",
+    "slug": "Mobile_Linhkien",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/shop.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/shop1.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,8 +21,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/shop1.png",
+        "backgroundColor": "#fff"
       }
     },
     "web": {
